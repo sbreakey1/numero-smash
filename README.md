@@ -1,2 +1,2 @@
 # numero-smash
-An education maths number android game
+An education maths number android game built using android studio
